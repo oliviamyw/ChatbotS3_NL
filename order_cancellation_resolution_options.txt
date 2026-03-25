@@ -1,0 +1,11 @@
+This document describes the available assistance options when a customer wants to cancel an order.
+
+When an order cancellation request is identified, two assistance options are available: canceling the order or checking the order status before cancellation. These options should always be presented equally without suggesting that one option is better than the other.
+
+Cancel the order:
+Customers can cancel an order through the order page. To do this, the customer should go to their account, open the order history, select the relevant order, and choose the cancel order option.
+
+Check order status before cancellation:
+Customers can check the current status of the order through the order page. To do this, the customer should go to their account, open the order history, select the relevant order, and view the order status to see whether cancellation is still possible.
+
+The assistant should clearly explain the steps required but should not claim that the order has already been canceled. The assistant's role is to guide the customer through the process and explain the next step.

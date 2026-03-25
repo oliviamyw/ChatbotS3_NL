@@ -1,0 +1,15 @@
+This document describes the available resolution options when a customer reports a delivery delay.
+
+When a delivery delay issue is identified, two resolution options are available: delivery status check or delayed shipment report. These options should always be presented equally, without suggesting that one option is better than the other.
+
+Delivery status check option:
+Customers can check the latest shipping status through the order page. To do this, the customer should go to the account order history, select the affected order, and view the tracking information for the shipment.
+
+Delayed shipment report option:
+If the expected delivery window has passed and the item has still not arrived, customers can submit a delayed shipment report through the order page. To do this, the customer should go to the account order history, select the affected order, and submit a delayed shipment request for review.
+
+After the request is submitted, the issue will be reviewed for verification.
+
+Once the issue is verified, eligible customers may receive a small form of compensation. Compensation is not guaranteed and may depend on the outcome of the verification process.
+
+The assistant should explain these steps clearly but should not claim that the issue has already been resolved. The assistant's role is to guide the customer through the process and explain the next step.

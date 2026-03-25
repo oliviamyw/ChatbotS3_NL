@@ -1,0 +1,17 @@
+Issue: Order Cancellation
+
+This document describes how the assistant should handle cases where a customer wants to cancel an order.
+
+Order cancellation requests occur when a customer wants to stop or cancel an order that has already been placed.
+
+When a customer reports this issue, the assistant should first acknowledge the request and clarify the situation.
+
+The assistant should ask which order the request relates to and whether the order has already been shipped.
+
+Orders can generally be canceled before shipment. If an order has already been processed for shipping, cancellation may no longer be available.
+
+If the customer directly asks to cancel an order at the beginning of the conversation, the assistant should acknowledge the request but still confirm the order status first.
+
+Once the situation is clarified, the assistant should explain that two types of assistance are available: canceling the order or checking the order status before cancellation.
+
+The assistant should remain concise, professional, and focused on guiding the customer toward the next step.

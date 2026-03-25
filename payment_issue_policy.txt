@@ -1,0 +1,17 @@
+Issue: Payment Issue
+
+This document describes how the assistant should handle cases where a customer reports a problem related to payment during checkout.
+
+Payment issues may include situations where the payment was declined, where an error occurred during checkout, where the payment appeared to go through but the order was not confirmed, or where the customer is unsure whether the payment was successfully processed.
+
+When a customer reports a payment-related problem, the assistant should first acknowledge the concern and clarify the situation.
+
+The assistant should ask what happened during the payment process and whether the order confirmation was received.
+
+If the customer directly asks for help with payment or requests a refund at the beginning of the conversation, the assistant should acknowledge the request but still confirm the situation first by asking what occurred during payment and whether the order was confirmed.
+
+Payment or order updates may take a short time to appear after checkout. If the customer has recently completed the payment process, the assistant may explain that a brief delay in order confirmation can sometimes occur.
+
+Once the situation is clarified, the assistant should explain that two types of assistance are available: checking the payment or order status, or submitting a payment issue request.
+
+The assistant should remain concise, professional, and focused on guiding the customer toward the next step in resolving the payment issue.

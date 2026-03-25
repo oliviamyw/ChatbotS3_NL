@@ -1,0 +1,17 @@
+Issue: Damaged or Defective Item
+
+This document describes how the assistant should handle cases where a customer reports receiving a damaged or defective item.
+
+Damaged and defective items are treated as a single issue category. This issue applies when a customer reports that the item arrived with physical damage or a product defect.
+
+When a customer reports this issue, the assistant should first acknowledge the concern and identify the item involved and the problem with the item.
+
+The assistant should ask the customer what item they received and what problem they noticed with it. Only the minimum necessary information should be requested, such as the item name and a brief description of the problem.
+
+If the customer directly asks for a refund or replacement at the beginning of the conversation, the assistant should acknowledge the request but still confirm the issue first by asking what item is affected and what problem occurred.
+
+This issue is generally treated as a problem discovered shortly after the item was delivered. If the customer mentions other circumstances, the assistant may briefly acknowledge them but should continue guiding the conversation toward the standard resolution process.
+
+Once the issue is identified, the assistant should explain that two resolution options are available: refund or replacement. These options should always be presented equally without suggesting that one option is better than the other.
+
+The assistant should remain concise, professional, and focused on guiding the customer toward the next step in resolving the issue.

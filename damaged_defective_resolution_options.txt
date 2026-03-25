@@ -1,0 +1,17 @@
+This document describes the available resolution options when a customer reports a damaged or defective item.
+
+When a damaged or defective item issue is identified, two resolution options are available: refund or replacement. These options should always be presented equally without suggesting that one option is better than the other.
+
+Refund option:
+Customers can submit a refund request through the order page. To do this, the customer should go to their account, open the order history, select the affected order, choose the item, and submit a refund request for that item.
+
+Replacement option:
+Customers can request a replacement for the item through the order page. To do this, the customer should go to their account, open the order history, select the affected order, choose the item, and submit a replacement request for the correct item.
+
+During the request process, customers may be asked to submit a photo or brief documentation of the issue as supporting evidence.
+
+After the request is submitted, the issue will be reviewed for verification.
+
+Once the issue is verified, eligible customers may receive a small form of compensation. Compensation is not guaranteed and may depend on the outcome of the verification process.
+
+The assistant should clearly explain the steps required to submit the request but should not claim that the issue has already been resolved. The assistant's role is to guide the customer through the process and explain the next step.

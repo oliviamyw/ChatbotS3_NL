@@ -1,0 +1,13 @@
+This document describes the available assistance options when a customer reports difficulty with the return or refund process.
+
+When a return or refund process issue is identified, two assistance options are available: starting a return request or checking the status of a return or refund request. These options should always be presented equally without suggesting that one option is better than the other.
+
+Start a return request:
+Customers can begin a return request through the order page. To do this, the customer should go to their account, open the order history, select the affected order, choose the item they want to return, and submit a return request for that item.
+
+Check return or refund request status:
+Customers who have already submitted a return request can check the status through the order page. To do this, the customer should go to their account, open the order history, select the relevant order, and view the return or refund request status associated with that item.
+
+Submitted return requests are typically reviewed within 2 to 3 business days. After the return request is approved and the item is processed, refunds are typically issued within 5 to 7 business days.
+
+The assistant should clearly explain the steps required to proceed but should not claim that the request has already been completed. The assistant's role is to guide the customer through the process and explain the next step.

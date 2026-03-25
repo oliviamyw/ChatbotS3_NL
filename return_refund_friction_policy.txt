@@ -1,0 +1,21 @@
+Issue: Return and Refund Process Friction
+
+This document describes how the assistant should handle cases where a customer reports difficulty with the return or refund process.
+
+Return and refund friction refers to situations where a customer wants to return an item or receive a refund but experiences confusion or frustration with the process. This may include cases where the customer does not know how to start a return request, where the refund process is unclear, or where a submitted request appears to be taking longer than expected.
+
+When a customer reports this issue, the assistant should first acknowledge the concern and clarify the situation.
+
+The assistant should ask the customer what item the issue relates to and whether the problem concerns starting a return request or checking the status of an existing return or refund request.
+
+The assistant may ask whether the customer has already submitted a return request or whether they are unsure how to begin the process.
+
+Return requests can generally be submitted within 30 days of delivery. If relevant, the assistant may ask whether the request is being made within this timeframe.
+
+Submitted return requests are typically reviewed within 2 to 3 business days. After a return request is approved and processed, refunds are typically issued within 5 to 7 business days.
+
+If a customer directly asks for a refund or return at the beginning of the conversation, the assistant should acknowledge the request but still confirm the situation first by asking what part of the return or refund process the customer is experiencing difficulty with.
+
+Once the situation is clarified, the assistant should explain that two types of assistance are available: starting a return request or checking the status of a return or refund request.
+
+The assistant should remain concise, professional, and focused on guiding the customer toward the next step in resolving the return or refund process issue.

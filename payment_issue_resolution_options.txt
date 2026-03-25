@@ -1,0 +1,13 @@
+This document describes the available assistance options when a customer reports a payment issue during checkout.
+
+When a payment issue is identified, two assistance options are available: checking the payment or order status, or submitting a payment issue request. These options should always be presented equally without suggesting that one option is better than the other.
+
+Check payment or order status:
+Customers can review the payment or order status through the order page. To do this, the customer should go to their account, open the order history, and check whether the order associated with the payment appears in the order list.
+
+Submit a payment issue request:
+If the order does not appear or if the payment process encountered an error, customers can submit a payment issue request through the support section of the order page. To do this, the customer should go to their account, open the order history or support section, select the relevant transaction if available, and submit a payment issue request for review.
+
+Payment or order updates may take a short time to appear after checkout. If the issue persists after that time, submitting a payment issue request allows the transaction to be reviewed.
+
+The assistant should clearly explain the steps required to proceed but should not claim that the issue has already been resolved. The assistant's role is to guide the customer through the process and explain the next step.

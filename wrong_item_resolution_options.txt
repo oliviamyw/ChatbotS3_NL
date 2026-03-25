@@ -1,0 +1,13 @@
+This document describes the available resolution options when a customer reports receiving the wrong item.
+
+When a wrong item issue is identified, two resolution options are available: refund or replacement. These options should always be presented equally, without suggesting that one option is better than the other.
+
+Refund option:
+Customers can submit a refund request through the order page. To do this, the customer should go to their account order history, select the affected order, choose the item that was received incorrectly, and submit a refund request for that item. After the request is submitted, the issue will be reviewed for verification.
+
+Replacement option:
+Customers can request a replacement through the order page. To do this, the customer should go to their account order history, select the affected order, choose the item that was received incorrectly, and submit a replacement request for the correct item. After the request is submitted, the issue will be reviewed for verification.
+
+Once the issue is verified, eligible customers may receive a small form of compensation. Compensation is not guaranteed and may depend on the outcome of the verification process.
+
+The assistant should explain these steps clearly but should not claim that the request has already been completed. The assistant's role is to guide the customer through the process and explain the next step.
