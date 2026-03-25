@@ -93,7 +93,7 @@ autonomy_condition = "Low autonomy"
 
 
 def chatbot_speaker() -> str:
-    return CHATBOT_NAME if show_name else "Assistant"
+    return CHATBOT_NAME if show_name else "Style Loom Assistant"
 
 
 # -------------------------
